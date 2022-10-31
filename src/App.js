@@ -1,6 +1,5 @@
 import './App.css';
 // import io from 'socket.io-client';
-import MessengerCustomerChat from 'react-messenger-customer-chat';
 
 function App() {
   return (
